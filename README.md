@@ -19,7 +19,7 @@ Vehicle  re-Identification  aims  to  identify  the  samevehicle  across  the  d
 - Download the data and save in `./data/VeRi`  folder
 
 ### Report
-You can find the report summarizing the results of the project [here].(https://github.com/israfelsr/vehicle-re-identification/blob/master/vehicle_re_identification.pdf)
+You can find the report summarizing the results of the project [here](https://github.com/israfelsr/vehicle-re-identification/blob/master/vehicle_re_identification.pdf).
 ## Authors
 
 - [Israfel Salazar](https://github.com/israfelsr)
