@@ -11,12 +11,15 @@ Vehicle  re-Identification  aims  to  identify  the  samevehicle  across  the  d
 - PyTorch
 - PIL
 - Matplotlib
+- POT (for optimal transport)
 
 ### Dataset
 
 - VeRi-776
 - Download the data and save in `./data/VeRi`  folder
 
+### Report
+You can find the report summarizing the results of the project (here)[]
 ## Authors
 
 - [Israfel Salazar](https://github.com/israfelsr)
